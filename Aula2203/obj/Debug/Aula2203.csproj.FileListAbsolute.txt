@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.Form1.resources
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\bin\Debug\Aula2203.exe.config
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\bin\Debug\Aula2203.exe
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\bin\Debug\Aula2203.pdb
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.exe
+H:\Visual Studio 2022\Projects\Aula2203\Aula2203\obj\Debug\Aula2203.pdb
